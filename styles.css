@@ -1,6 +1,5 @@
-body {
-    /* TODO: set TypeKit font */
-}
+body,input,button,select,textarea{font-family:"Droid Serif","Helvetica Neue",Helvetica,sans-serif;}
+h1,h2,h3,h4,h5,h6{font-family:"Oswald","Helvetica Neue",Helvetica,sans-serif;}
 
 .navbar .navbar-inner {
     background-color: #2a5f21;
