@@ -5,3 +5,8 @@ body {
 .navbar .navbar-inner {
     background-color: #2a5f21;
 }
+
+#searchBar button {
+    background-color: #2a5f21;
+    border-color: #2a5f21;
+}
