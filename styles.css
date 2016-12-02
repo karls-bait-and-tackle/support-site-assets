@@ -1,11 +1,21 @@
-body,input,button,select,textarea{font-family:"Droid Serif","Helvetica Neue",Helvetica,sans-serif;}
-h1,h2,h3,h4,h5,h6{font-family:"Oswald","Helvetica Neue",Helvetica,sans-serif;}
+body{font-family: Georgia, "Times New Roman, Times, serif;}
+
+button{font-family: Industry-Brand, Arial, sans-serif;font-weight: 800;}
+
+input, select, textarea{font-family: Industry-Brand, Arial, sans-serif;font-weight: 300;}
+
+h1,h2,h3,h4,h5,h6{font-family: Industry-Brand, Arial, sans-serif;font-weight: 200;}
 
 .navbar .navbar-inner {
-    background-color: #2a5f21;
+    background-color: #2b3336;
 }
 
 #searchBar button {
-    background-color: #2a5f21;
-    border-color: #2a5f21;
+    background-color: #f4aa00;
+    border-color: #c1b600;
+}
+
+
+#searchBar button:hover {
+    background: #b8a483;
 }
